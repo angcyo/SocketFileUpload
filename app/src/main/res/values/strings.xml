@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocketFileUpload</string>
+    <string name="success">成功</string>
+    <string name="filenotexsit">文件不存在</string>
+    <string name="sdcarderror">sd卡异常</string>
+
+</resources>
